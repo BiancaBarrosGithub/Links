@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Links",
-    "slug": "Links",
+    "name": "splash",
+    "slug": "splash",
     "version": "1.0.0",
-    "scheme": "Links",
+    "scheme": "splash",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
